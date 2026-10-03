@@ -16,3 +16,4 @@ Every analysis answer follows this shape, in this order:
 
 Round money to the nearest thousand and write it as `$123k`. Write percentages with one decimal.
 Never open with "Sure" or "Here is"; open with the first summary bullet.
+5. **Risks** — one bullet naming the biggest risk to the numbers.
